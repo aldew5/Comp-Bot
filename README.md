@@ -1,5 +1,5 @@
 # Comp-Bot
-A Discord bot that gives you a random compliment. This bot was written in JavaScript.
+A Discord bot that gives you a random compliment.
 
 # Usage
 <ul>
